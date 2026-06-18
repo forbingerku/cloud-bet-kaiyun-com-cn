@@ -1,2 +1,28 @@
-# cloud-bet-kaiyun-com-cn
-开云 - https://www.cloud-bet-kaiyun.com.cn
+# 开云 - 官方网站
+
+## 简介
+
+欢迎访问 **开云** 官方网站，网址为 **https://www.cloud-bet-kaiyun.com.cn**。开云致力于为用户提供稳定、便捷的在线平台服务。通过该网站，您可以了解开云的最新动态、功能特色以及相关资源。
+
+## 网站特点
+
+- **清晰域名**：开云官网使用专属域名 **https://www.cloud-bet-kaiyun.com.cn**，便于用户记忆和访问。
+- **内容聚合**：网站集中展示开云的核心信息，包括平台介绍、使用指南和更新公告。
+- **持续维护**：开云团队定期更新网站内容，确保信息准确且符合用户需求。
+
+## 访问方式
+
+您可以直接在浏览器地址栏输入以下网址访问开云官网：
+
+**https://www.cloud-bet-kaiyun.com.cn**
+
+建议使用最新版本的 Chrome、Firefox 或 Edge 浏览器以获得最佳浏览体验。
+
+## 注意事项
+
+- 请通过官方域名 **https://www.cloud-bet-kaiyun.com.cn** 访问开云，避免使用非官方渠道。
+- 网站内容仅供信息参考，具体服务条款以平台实际规则为准。
+
+---
+
+如需了解更多信息，请随时访问 **开云** 官网 **https://www.cloud-bet-kaiyun.com.cn**。

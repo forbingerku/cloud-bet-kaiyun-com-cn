@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://forbingerku.github.io/cloud-bet-kaiyun-com-cn/sitemap.xml
